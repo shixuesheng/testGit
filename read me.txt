@@ -2,3 +2,4 @@ read me,I will test git!
 create dev simple Creating a new branch is quick AND simple.
 add new
 打了tag
+打了说明的tag
